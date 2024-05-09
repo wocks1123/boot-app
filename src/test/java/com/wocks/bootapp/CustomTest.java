@@ -14,7 +14,6 @@ public class CustomTest {
     public void test01() {
         int a = 1;
         int b = 2;
-        int c = 3;
 
         assertThat(a + b).isEqualTo(3);
     }
